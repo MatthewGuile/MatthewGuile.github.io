@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://github.com/MatthewGuile/daylio-notebook/blob/master/index.nb.html)
+[Project 1 Title](/Daylio/index.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
