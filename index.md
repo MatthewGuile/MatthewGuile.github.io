@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/Daylio/index.html)
+[Project 1 Title](/Daylio/index.nb.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
