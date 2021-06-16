@@ -2,7 +2,7 @@
 
 ---
 
-### Data projects
+### Personal projects
 
 [Project 1 Title](/Daylio/index.nb.html)
 <img src="/Daylio/avgdailysentiment.jpg?raw=true"/>
@@ -13,7 +13,7 @@
 
 ---
 
-### Published work
+### Published works
 
 - [Lockdown and Chill: How Streaming Won 2020](https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/sites/3/2020/12/new_pdf.pdf)
 - [COVID-19 Vaccine Hesistancy Study](https://www.brandseye.com/research/covid-vaccine-hesitancy-sentiment-twitter-us-uk/)
