@@ -2,34 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Published works
 
-[Project 1 Title](/Daylio/index.nb.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Lockdown and Chill: How Streaming Won 2020](https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/sites/3/2020/12/new_pdf.pdf)
+<img src="/images/Finder-lockdown-chill.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[COVID-19 Vaccine Hesistancy Study](https://www.brandseye.com/research/covid-vaccine-hesitancy-sentiment-twitter-us-uk/)
+<img src="/images/vaccine-hesitancy.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[South African Banking Sentiment Index 2019](https://media.trustradius.com/product-downloadables/PT/VX/KT7MP1PLAZXX.pdf)
+<img src="/images/SABSI2019.jpg?raw=true"/>
 
 ---
 
+### Personal projects
 
+- [Daily Journal Sentiment Analysis](/Daylio/index.nb.html)
+- [South Africa State Of The Nation Sentiment Analysis 2019](/sona19/index.nb.html)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
