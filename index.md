@@ -13,7 +13,7 @@
 
 ---
 [South African Banking Sentiment Index 2019](https://media.trustradius.com/product-downloadables/PT/VX/KT7MP1PLAZXX.pdf)
-<img src="/images/SABSI2019.jpg?raw=true"/>
+<img src="/images/sabsi2019.jpg?raw=true"/>
 
 ---
 
