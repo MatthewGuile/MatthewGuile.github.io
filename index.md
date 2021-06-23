@@ -4,16 +4,16 @@
 
 ### Published works
 
-[Lockdown and Chill: How Streaming Won 2020](https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/sites/3/2020/12/new_pdf.pdf)
+[Lockdown and Chill: How Streaming Won 2020](https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/sites/3/2020/12/new_pdf.pdf) Lead data analyst
 <img src="/images/Finder-lockdown-chill.jpg?raw=true"/>
 
 ---
-[COVID-19 Vaccine Hesistancy Study](https://www.brandseye.com/research/covid-vaccine-hesitancy-sentiment-twitter-us-uk/)
+[COVID-19 Vaccine Hesistancy Study](https://www.brandseye.com/research/covid-vaccine-hesitancy-sentiment-twitter-us-uk/) Lead data analyst
 <img src="/images/vaccine-hesitancy.jpg?raw=true"/>
 
 ---
-[South African Banking Sentiment Index 2019](https://media.trustradius.com/product-downloadables/PT/VX/KT7MP1PLAZXX.pdf)
-<img src="/images/SABSI2019.jpg?raw=true"/>
+[South African Banking Sentiment Index 2019](https://media.trustradius.com/product-downloadables/PT/VX/KT7MP1PLAZXX.pdf) Supporting data analyst
+<img src="/images/sabsi2019.jpg?raw=true"/>
 
 ---
 
