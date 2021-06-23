@@ -2,11 +2,11 @@ title: Matthew Guile # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-Microsoft certified data analyst with two years of SaaS experience developing consumer insights reports for South Africa's leading financial service providers. 
-<br>
-Fast learner with a strong technical aptitude and creative mindset. Psychology graduate and self-taught R enthusiast. 
-<br>
-<a href="/Matthew_Guile_CV.pdf">Download My CV</a> 
+ Microsoft certified data analyst with two years of SaaS experience developing consumer insights reports for South Africa's leading financial service providers. 
+ <br>
+ Fast learner with a strong technical aptitude and creative mindset. Psychology graduate and self-taught R enthusiast. 
+ <br>
+ <a href="/Matthew_Guile_CV.pdf">Download My CV</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
